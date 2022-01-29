@@ -111,7 +111,7 @@
             "SNEED": "*Reply to a photo sticker.*",
             "DOWNS": "```Downloading & editing sticker...```",
             "EMOJI": "Convert emoji to photo.",
-            "ENEED": "```Give me a emoji.```",
+            "ENEED": "```Give me 2 emoji.```",
             "NEED_SAAVN": "```Give me a link.```",
             "SAAVN_DESC": "Download song from Jio Saavn.",
             "NEED_SPOTIFY": "```Give me a link.```",
